@@ -1,0 +1,8 @@
+{
+  "name": "EduMind AI",
+  "description": "Your personal AI academic tutor. Ask questions, get step-by-step explanations, generate quizzes, and organize your study notes.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
